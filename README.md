@@ -3,7 +3,7 @@
 
 Ingénieur logiciel avec plus de 7 ans d'expérience. A travaillé pour des startups innovantes, des produits pour grandes entreprises et des agences primées. Familiarisé avec le travail à distance et au bureau. Cherchant toujours à s'approprier le projet et à le livrer plus rapidement que prévu. Confortable pour le développement Web, mobile et API.
 
-
+$2b$10$iysc3R7brtU/2mTAjxx9COVyqXVCYjvlgF6FkfDwKm25VEMwqVPze
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
