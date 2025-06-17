@@ -5,7 +5,10 @@ Ingénieur logiciel avec plus de 3 ans d'expérience. A travaillé pour des star
 
 ## 🛠️ Technologies & Tools
 
+### Typescript
 ### Reactjs
+### ReactNative
+### Dart
 ### Nodejs
 ### Symfony
 ### SpringBoot
