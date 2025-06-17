@@ -14,7 +14,15 @@ Ingénieur logiciel avec plus de 3 ans d'expérience. A travaillé pour des star
 ![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&color=warning&logo=jest)
 ![](https://img.shields.io/badge/Tool-SCSS-informational?style=flat&color=warning&logo=sass)
 
-
+### Reactjs
+### Nodejs
+### Symfony
+### SpringBoot
+### Angular
+### Tailwind css
+### Bootstrap
+### n8n
+### Notion
 
 ## 📊 DETAIL
 Pour plus de details, aller voir [mon site](https://rootcoder.dev/)
