@@ -13,7 +13,6 @@ Ingénieur logiciel avec plus de 3 ans d'expérience. A travaillé pour des star
 ![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&color=warning&logo=webpack)
 ![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&color=warning&logo=jest)
 ![](https://img.shields.io/badge/Tool-SCSS-informational?style=flat&color=warning&logo=sass)
-![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
 
 ## 📊 DETAIL
 Pour plus de details, aller voir [mon site](https://rootcoder.dev/)
