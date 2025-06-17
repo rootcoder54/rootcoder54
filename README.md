@@ -4,15 +4,6 @@
 Ingénieur logiciel avec plus de 3 ans d'expérience. A travaillé pour des startups innovantes, des produits pour grandes entreprises et des agences primées. Familiarisé avec le travail à distance et au bureau. Cherchant toujours à s'approprier le projet et à le livrer plus rapidement que prévu. Confortable pour le développement Web, mobile et API.
 
 ## 🛠️ Technologies & Tools
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&color=informational&logo=nextjs)
-![](https://img.shields.io/badge/Code-EcmaScript-informational?style=flat&color=informational)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
-![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&color=warning&logo=webpack)
-![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&color=warning&logo=jest)
-![](https://img.shields.io/badge/Tool-SCSS-informational?style=flat&color=warning&logo=sass)
 
 ### Reactjs
 ### Nodejs
@@ -23,6 +14,7 @@ Ingénieur logiciel avec plus de 3 ans d'expérience. A travaillé pour des star
 ### Bootstrap
 ### n8n
 ### Notion
+### Api chatgpt
 
 ## 📊 DETAIL
 Pour plus de details, aller voir [mon site](https://rootcoder.dev/)
